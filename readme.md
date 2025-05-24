@@ -29,7 +29,7 @@ We also include several sample data file in
 sample_data/
 ```
 
-You can also find the sample dataset at [https://huggingface.co/datasets/jouyang/treecut-math](https://huggingface.co/datasets/jouyang/treecut-math).
+More sample data (~21k) can be found at [![View on Hugging Face](https://img.shields.io/badge/HuggingFace-Dataset-blue.svg?logo=huggingface)](https://huggingface.co/datasets/your-username/your-dataset-name)
 
 ## Citation
 ```bibtex
