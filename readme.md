@@ -29,6 +29,8 @@ We also include several sample data file in
 sample_data/
 ```
 
+You can also find the sample dataset at [https://huggingface.co/datasets/jouyang/treecut-math](https://huggingface.co/datasets/jouyang/treecut-math).
+
 ## Citation
 ```bibtex
 @article{ouyang2025treecut,
